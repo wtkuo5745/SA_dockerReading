@@ -3,6 +3,23 @@ This is notes for Max reading
 
 -------------------------------------
 
+2021/1/18
+
+* Chapter 2 ~ Chapter 2 p.19
+* docker run 失敗, 下次找一下原因,"Error: Cannot find module 'express'"
+* 應該是書的錯誤, Dockerfile 內應該要 npm install express 參考 https://www.oreilly.com/catalog/errataunconfirmed.csp?isbn=0636920223788 , 已驗證成功
+* 下次看 Multistage Image Builds
+
+-------------------------------------
+
+2021/1/14
+
+* 升級 Ｍac 的 git from 2.21 (Mac) to Brew 2.30
+* 參考 https://garynil.tw/2018/05/762/%E5%A6%82%E4%BD%95%E4%BB%A5-homebrew-%E5%8F%96%E4%BB%A3-macos-%E5%85%A7%E5%BB%BA-git-%E4%B8%A6%E6%9B%B4%E6%96%B0/
+* $ brew link git
+
+-------------------------------------
+
 2021/1/11
 
 * Chapter 1 簡報整理 [ 20210114_meeting ]
