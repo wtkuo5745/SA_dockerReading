@@ -50,6 +50,46 @@ http://freemind.sourceforge.net/wiki/index.php/Download
 
 -------------------------------------------------
 
+2021/4/8
+
+* Chapter 5 ~ Chapter 5 P.56
+
+* 講者: 柏勳, 下次講 Chapter P.57 於磁碟區持久化資料
+
+*  下次讀書會 4/29
+
+-------------------------------------------------
+
+2021/3/25
+
+* Chapter 4 Debugging Commands ~ Chapter 4 結束
+
+* 講者 奕德, 下次 Chapter 5
+
+* 下次讀書會 4/8
+
+-------------------------------------------------
+
+2021/3/4
+
+* Chapter 4 ~ Chapter 4 Labeling and Annotating Objects
+
+* 講者 奕德, 下次講 Chapter 4 Debugging Commands
+
+* 下次讀書會 3/25
+
+-------------------------------------------------
+
+2021/2/18
+
+* Chapter 3 p.30 ~ Chapter 3 結束
+
+* 下次講者 奕德
+
+* 下次讀書會 3/4
+
+-------------------------------------------------
+
 2021/1/28
 
 * Chapter 2 ~ Chapter 3 p.30
